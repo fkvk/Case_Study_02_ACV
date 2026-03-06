@@ -57,7 +57,7 @@ Her kayıt şu bilgileri içerir:
 * Hesap sınıfı (Mesken, Ticari, Tarımsal vb.)
 * Vade tarihi
 
-📊 Veri seti toplamda yaklaşık:
+Veri seti toplamda yaklaşık:
 
 * **2.74 milyon kayıt**
 * **28,299 müşteri**
@@ -101,7 +101,7 @@ Bu aşamada:
 * Karar vericiler için öneriler geliştirilmiştir
 
 
-## 📈 Temel Bulgular
+## Temel Bulgular
 
 Analiz sonucu oluşturulan grafikler ve görseller:
 
@@ -112,7 +112,7 @@ outputs/figures/
 klasöründe yer almaktadır.
 
 
-## 🛠️ Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 Projede aşağıdaki araç ve kütüphaneler kullanılmıştır:
 
@@ -124,7 +124,7 @@ Projede aşağıdaki araç ve kütüphaneler kullanılmıştır:
 * Jupyter Notebook
 
 
-## 🚀 Çalıştırma Talimatı
+## Çalıştırma Talimatı
 
 Projeyi çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
